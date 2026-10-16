@@ -20,3 +20,9 @@ body
 {
     display: flex;
 }
+
+ article img:hover {
+   width: 83%;
+   max-width: 87%;
+   transform: scale(1.05);
+ }
