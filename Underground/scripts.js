@@ -5,3 +5,7 @@ function SeleccionDeAutos(selecion)
 
     case 2:
 }
+
+document.getElementById()
+
+addEventListener()
