@@ -8,4 +8,4 @@ function SeleccionDeAutos(selecion)
 
 document.getElementById()
 
-addEventListener()
+addEventListener(click, )
