@@ -21,6 +21,11 @@ body
     display: flex;
 }
 
+a
+{
+  text-decoration: none;
+}
+
  article img:hover {
    width: 83%;
    max-width: 87%;
